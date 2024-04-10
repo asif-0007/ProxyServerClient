@@ -17,7 +17,7 @@ This project is implemented using `C` and Parsing of HTTP referred from <a href 
 ##### Introduction
 
 ##### Basic Working Flow of the Proxy Server:
-![](https://github.com/asif-0007/ProxyServerClient/blob/main/pics/UML.JPG)
+![](https://github.com/asif-0007/ProxyServerClient/blob/main/pics/UML.png)
 
 ##### How did we implement Multi-threading?
 - Used Semaphore instead of Condition Variables and pthread_join() and pthread_exit() function. 
