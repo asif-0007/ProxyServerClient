@@ -8,7 +8,6 @@ This project is implemented using `C` and Parsing of HTTP referred from <a href 
 - [Project Theory](https://github.com/asif-0007/ProxyServerClient#project-theory)
 - [How to Run](https://github.com/asif-0007/ProxyServerClient#How-to-Run)
 - [Demo](https://github.com/asif-0007/ProxyServerClient#Demo)
-- [Contributing](https://github.com/asif-0007/ProxyServerClient#contributing)
 
 ## Project Theory
 
@@ -82,10 +81,3 @@ $ ./proxy <port>
 - When website is opened for the first time (`url not found`) then cache will be miss.
 - Then if you again open that website again then `Data is retrieved from the cache` will be printed.
 
-## Contributing
-
-[[Back to top]](https://github.com/asif-0007/ProxyServerClient#index)
-
-Feel free to add some useful. You can see `How this code can be extended`. Use ideas from there and feel free to fork and CHANGE. 
-
-#### Enjoy CODE and pull requests are highly appreciated.
