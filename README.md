@@ -44,6 +44,7 @@ This project is implemented using `C` and Parsing of HTTP referred from <a href 
 - Locks 
 - Semaphore
 - Cache (LRU algorithm is used in it)
+- Networking Concepts like HTTP headers
 
 ##### Limitations ​
 - If a URL opens multiple clients itself, then our cache will store each client’s response as a separate element in the linked list. So, during retrieval from the cache, only a chunk of response will be send and the website will not open
